@@ -1,5 +1,5 @@
 # https://berkayyuksel.me
-# fix for pytube : https://github.com/hbmartin/pytube3
+# fix for pytube : https://github.com/trhacknon/pytube3
 
 import tkinter
 import tkinter.filedialog
